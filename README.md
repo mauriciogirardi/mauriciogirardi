@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/mauriciogirardi/">
+   <a href="https://www.linkedin.com/in/mauricio-girardi/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriznonato/">
   </a>
   
