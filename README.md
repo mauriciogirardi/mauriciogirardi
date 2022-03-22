@@ -2,7 +2,7 @@
   
 
 - :computer: I’m currently working as Frontend at Cognyte
-- :open_book: I’m learning about Python,Node and English 
+- :open_book: I’m learning about Python,Node, Spring and English 
 - :pencil2: I'm styding bachelor of Software Engineering
 
 <br>
