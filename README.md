@@ -1,9 +1,8 @@
 # Hi There, I'm Mauricio Girardi :nerd_face:
   
 
-- :computer: I’m currently working as Frontend at Cognyte
-- :open_book: I’m learning about Python,Node, Spring and English 
-- :pencil2: I'm styding bachelor of Software Engineering
+- :computer: I’m currently working as Frontend at Bliss
+- I am very hardworking and focused on my results. I periodically seek knowledge to improve my skills and evolve quickly from the proposed challenges., I am a very simple person to live with who am always available to solve problems and develop solutions.
 
 <br>
 
