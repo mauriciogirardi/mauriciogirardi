@@ -2,7 +2,7 @@
   
 
 - :computer: I’m currently working as Frontend at Bliss
-I'm a passionate front-end developer with almost 4 years of experience creating engaging and functional interfaces for websites and web applications. Throughout my career, I have worked hard to translate creative designs into solid, responsive code, ensuring an exceptional user experience.
+- I'm a passionate front-end developer with almost 4 years of experience creating engaging and functional interfaces for websites and web applications. Throughout my career, I have worked hard to translate creative designs into solid, responsive code, ensuring an exceptional user experience.
 
 <br>
 
