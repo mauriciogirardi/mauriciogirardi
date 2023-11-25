@@ -1,5 +1,7 @@
 # Hi There, I'm Mauricio Girardi :nerd_face:
-  
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 - :computer: I’m currently working as Frontend at Bliss
 - I'm a passionate front-end developer with almost 4 years of experience creating engaging and functional interfaces for websites and web applications. Throughout my career, I have worked hard to translate creative designs into solid, responsive code, ensuring an exceptional user experience.
@@ -22,6 +24,18 @@
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
+
+<br>
+<br>
+<br>
+<br>
+
+🏆 GitHub Profile Trophy:
+
+<img
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=mauriciogirardi&column=9&theme=darkhub&no-frame=true&no-bg=true"
+/>
 
 
 
