@@ -23,15 +23,5 @@
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
 
-<table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogirardi&layout=compact&theme=react'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=mauriciogirardi&show_icons=true&theme=react'>
-    </td>
-  </row>
-</table> 
+
 
