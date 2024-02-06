@@ -4,7 +4,8 @@
 
 
 - :computer: I’m open to a new challenge
-- 👋 Hello! I’m Mauricio Girardi, a passionate Front-end Developer with a solid background in building amazing digital experiences. My main focus is on technologies like ReactJS, Next.js, Node.js, React Native and more.
+  
+👋 Hello! I’m Mauricio Girardi, a passionate Front-end Developer with a solid background in building amazing digital experiences. My main focus is on technologies like ReactJS, Next.js, Node.js, React Native and more.
 
 Currently, I work as a Front-end Developer, in projects using ReactJS and Next.js to create intuitive and responsive interfaces. My experience with Node.js allows me to efficiently integrate front-end and back-end, ensuring exceptional performance.
 
