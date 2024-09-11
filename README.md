@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-- :computer: I’m open to a new challenge
+- :computer: 
   
 👋 Hello! I’m Mauricio Girardi, a passionate Front-end Developer with a solid background in building amazing digital experiences. My main focus is on technologies like ReactJS, Next.js, Node.js, React Native and more.
 
